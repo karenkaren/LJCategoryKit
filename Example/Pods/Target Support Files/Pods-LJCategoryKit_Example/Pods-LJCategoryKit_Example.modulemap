@@ -1,0 +1,6 @@
+framework module Pods_LJCategoryKit_Example {
+  umbrella header "Pods-LJCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
